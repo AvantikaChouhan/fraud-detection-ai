@@ -391,7 +391,7 @@ Streamlit Dashboard
 Detailed project documentation is available in:
 
 ```text
-docs/01_project_overview.md
+docs/project_overview.md
 ```
 
 The documentation covers the complete implementation, architecture, Databricks pipeline, ML workflow, SQL analytics, data quality, SCD Type 2, GenAI integration, dashboard, design decisions, limitations, and future enhancements.
