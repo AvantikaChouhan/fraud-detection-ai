@@ -278,6 +278,10 @@ The project includes an interactive Streamlit dashboard for fraud investigation 
 - Fraud investigation table
 - AI Investigation Assistant
 
+### Dashboard Preview
+
+![FraudStream AI Dashboard](dashboard/fraudstream-dashboard.png)
+
 ### Run Dashboard
 
 ```bash
